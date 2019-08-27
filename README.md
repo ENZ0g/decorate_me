@@ -1,2 +1,2 @@
 # decorate_me
-Work with decorators
+Work with decorators. Creating functions run-time counter.
